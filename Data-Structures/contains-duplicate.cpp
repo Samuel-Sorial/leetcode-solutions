@@ -3,7 +3,7 @@
 using std::unordered_set;
 using std::vector;
 
-// https:// leetcode.com/problems/contains-duplicate
+// https://leetcode.com/problems/contains-duplicate
 
 class Solution
 {
