@@ -4,7 +4,7 @@ using std::unordered_set;
 using std::vector;
 
 // https://leetcode.com/problems/contains-duplicate
-
+// O(n)
 class Solution
 {
 public:

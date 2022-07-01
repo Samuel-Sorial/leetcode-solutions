@@ -5,6 +5,7 @@ using std::unordered_map;
 using std::vector;
 
 // https://leetcode.com/problems/two-sum
+// O(n)
 class Solution
 {
 public:

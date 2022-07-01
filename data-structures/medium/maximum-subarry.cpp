@@ -3,7 +3,7 @@
 using std::vector;
 
 // https://leetcode.com/problems/maximum-subarray/
-
+// O(n)
 class Solution
 {
 public:
